@@ -1,5 +1,5 @@
-#ifndef _TP1_H_
-#define _TP1_H_
+#ifndef _CUESTIONARIO_INICIAL_H_
+#define _CUESTIONARIO_INICIAL_H_
 
 const static char STITCH = 'S';
 const static char OLAF = 'O';

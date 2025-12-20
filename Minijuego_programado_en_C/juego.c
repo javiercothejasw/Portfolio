@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "papeleo.h"
-#include "tp1.h"
+#include "cuestionario_inicial.h"
 #include <stdlib.h>
 #include <time.h>
 

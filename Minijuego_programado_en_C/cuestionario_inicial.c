@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "tp1.h"
+#include "cuestionario_inicial.h"
 
 const char TRANSPORTE_1 = 'T';
 const char TRANSPORTE_2 = 'N';

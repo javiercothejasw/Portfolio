@@ -1,5 +1,5 @@
 #include "papeleo.h"
-#include "tp1.h"
+#include "cuestionario_inicial.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
