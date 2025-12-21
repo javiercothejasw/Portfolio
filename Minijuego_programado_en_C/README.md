@@ -22,7 +22,7 @@ El juego debera compilarse y ejecutarse en entornos Linux o similares con las si
     ./juego
 
 ## Conceptos aplicados
-Validación de datos ingresados por el usuario.
+- Validación de datos ingresados por el usuario.
 
 - Diseño y desarrollo de funcionalidades de una biblioteca con un contrato preestablecido.
 
