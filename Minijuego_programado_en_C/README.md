@@ -1,6 +1,6 @@
 # Wazowski en busqueda de los papeleos
 ## Descripcion
-Minijuego ejecutado en la consola de comandos de Linux donde controlaremos al personaje Wazowski (W) para recolectar todos los papeleos(1-2-3-4) esparcidos a lo largo de 3 habitaciones(Mapas).
+Minijuego ejecutado en la consola de comandos de Linux desarrollado en C donde controlaremos al personaje Wazowski (W) para recolectar todos los papeleos(1-2-3-4) esparcidos a lo largo de 3 habitaciones(Mapas).
 
 - Empezaremos con una cantidad inicial de Movimientos.
 
