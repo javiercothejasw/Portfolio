@@ -12,7 +12,7 @@ En estas actividades se aplican conceptos fundamentales de la POO que son transm
 - Polimorfismo, distintas implementaciones de un metodo que responden a un mismo mensaje.
 - Patrones de diseño: Null Object, Method Object, Object Recursion, Compositte, Visitor, entre otros.
 - Encapsulamiento y extensibilidad del codigo.
-- TDD, Desarrollo guiado por pruebas
+- TDD, Desarrollo guiado por pruebas.
 
 ## Visualizacion de los archivos
 
@@ -25,4 +25,5 @@ Ejecutamos el programa, arrastramos los archivos dentro de la interfaz, seleccio
 Consultas
 
     javiercothejainfo@gmail.com
+
 
